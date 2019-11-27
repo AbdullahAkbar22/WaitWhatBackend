@@ -1,0 +1,109 @@
+{ 
+ "query": "last of us", 
+ "resultsfound" : 17,
+ "headlines": [ 
+	{ 
+		"Title": "[Image] I got my MondoTees The Last of Us Vinyl in the mail yesterday", 
+		"Link": "/r/PS4/comments/a4zcn1/image_i_got_my_mondotees_the_last_of_us_vinyl_in/", 
+		"Subreddit": "/r/PS4" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us Concept Art [3840x2160]", 
+		"Link": "/r/wallpapers/comments/9rz4c2/the_last_of_us_concept_art_3840x2160/", 
+		"Subreddit": "/r/wallpapers" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us Part II Gameplay Trailer Level Study by Ovidiu Mantoc", 
+		"Link": "/r/thelastofus/comments/91b7ie/the_last_of_us_part_ii_gameplay_trailer_level/", 
+		"Subreddit": "/r/thelastofus" 
+
+	}, 
+	{ 
+		"Title": "The Last of us - Scenery by BrandonStricker (Link in the comments)", 
+		"Link": "/r/thelastofus/comments/9drbyy/the_last_of_us_scenery_by_brandonstricker_link_in/", 
+		"Subreddit": "/r/thelastofus" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us Pixel Art", 
+		"Link": "/r/gaming/comments/8nwcia/the_last_of_us_pixel_art/", 
+		"Subreddit": "/r/gaming" 
+
+	}, 
+	{ 
+		"Title": "THE LAST OF US POSTER BY SAM WOLFE CONNELLY", 
+		"Link": "/user/dracula_x/comments/9n8lex/the_last_of_us_poster_by_sam_wolfe_connelly/", 
+		"Subreddit": "/r/dracula_x" 
+
+	}, 
+	{ 
+		"Title": "Friend playing The Last of Us theme song, on piano! (/r/thelastofus)", 
+		"Link": "/r/mistyfront/comments/9k8tzt/friend_playing_the_last_of_us_theme_song_on_piano/", 
+		"Subreddit": "/r/mistyfront" 
+
+	}, 
+	{ 
+		"Title": "When do you think The Last Of Us will be on sale again?", 
+		"Link": "/r/PS4/comments/8rjowl/when_do_you_think_the_last_of_us_will_be_on_sale/", 
+		"Subreddit": "/r/PS4" 
+
+	}, 
+	{ 
+		"Title": "The Last Of Us rainmeter", 
+		"Link": "/r/Rainmeter/comments/7jjvkl/the_last_of_us_rainmeter/", 
+		"Subreddit": "/r/Rainmeter" 
+
+	}, 
+	{ 
+		"Title": "Instrumental - Sarah (Sampled from The Last of Us)", 
+		"Link": "/r/hiphopheads/comments/8rbpuh/instrumental_sarah_sampled_from_the_last_of_us/", 
+		"Subreddit": "/r/hiphopheads" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us would be a great game for the sub stream", 
+		"Link": "/r/northernlion/comments/8qz94g/the_last_of_us_would_be_a_great_game_for_the_sub/", 
+		"Subreddit": "/r/northernlion" 
+
+	}, 
+	{ 
+		"Title": "[Video] The Last of Us Part II  E3 2018 Gameplay Reveal Trailer (/r/PS4)", 
+		"Link": "/r/mistyfront/comments/8qhny2/video_the_last_of_us_part_ii_e3_2018_gameplay/", 
+		"Subreddit": "/r/mistyfront" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us (Bronica SQA, 80mm, Ektar 100)", 
+		"Link": "/r/analog/comments/8ndva5/the_last_of_us_bronica_sqa_80mm_ektar_100/", 
+		"Subreddit": "/r/analog" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us 2 Ellie & Joel Song (PSX 2017)", 
+		"Link": "/r/thelastofus/comments/7jhjlw/the_last_of_us_2_ellie_joel_song_psx_2017/", 
+		"Subreddit": "/r/thelastofus" 
+
+	}, 
+	{ 
+		"Title": "The Last of Us Part 2 New Soundtrack (/r/thelastofus)", 
+		"Link": "/r/mistyfront/comments/88gurh/the_last_of_us_part_2_new_soundtrack_rthelastofus/", 
+		"Subreddit": "/r/mistyfront" 
+
+	}, 
+	{ 
+		"Title": "The last of us servers down California 2:48am", 
+		"Link": "/r/ImagesOfCalifornia/comments/82nf5l/the_last_of_us_servers_down_california_248am/", 
+		"Subreddit": "/r/ImagesOfCalifornia" 
+
+	}, 
+	{ 
+		"Title": "[Cosplay] Epic The Last Of Us cosplay in Chernobyl exclusion zone", 
+		"Link": "/r/cosplay/comments/6hh0f9/cosplay_epic_the_last_of_us_cosplay_in_chernobyl/", 
+		"Subreddit": "/r/cosplay" 
+
+	} 
+
+ ] 
+ }

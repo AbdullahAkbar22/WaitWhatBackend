@@ -1,0 +1,136 @@
+{ 
+ "url": "http://www.espn.com/nba/scoreboard/_/date/20190328", 
+ "date": "20190328", 
+ "resultsfound" : 8,
+ "scores": [ 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "ORL", 
+		 "teamName": "Magic", 
+		 "teamScore": 98 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "DET", 
+		 "teamName": "Pistons", 
+		 "teamScore": 115 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "BKN", 
+		 "teamName": "Nets", 
+		 "teamScore": 110 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "PHI", 
+		 "teamName": "76ers", 
+		 "teamScore": 123 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "DAL", 
+		 "teamName": "Mavericks", 
+		 "teamScore": 99 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "MIA", 
+		 "teamName": "Heat", 
+		 "teamScore": 105 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "TOR", 
+		 "teamName": "Raptors", 
+		 "teamScore": 117 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "NY", 
+		 "teamName": "Knicks", 
+		 "teamScore": 92 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "DEN", 
+		 "teamName": "Nuggets", 
+		 "teamScore": 85 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "HOU", 
+		 "teamName": "Rockets", 
+		 "teamScore": 112 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "LAC", 
+		 "teamName": "Clippers", 
+		 "teamScore": 118 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "MIL", 
+		 "teamName": "Bucks", 
+		 "teamScore": 128 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "SAC", 
+		 "teamName": "Kings", 
+		 "teamScore": 118 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "NO", 
+		 "teamName": "Pelicans", 
+		 "teamScore": 121 
+		} 
+	 ]
+	}, 
+	{ 
+	 "teams": [
+		{ 
+		 "teamNumber": 1, 
+		 "teamAbbrev": "CLE", 
+		 "teamName": "Cavaliers", 
+		 "teamScore": 110 
+		}, 
+		{ 
+		 "teamNumber": 2, 
+		 "teamAbbrev": "SA", 
+		 "teamName": "Spurs", 
+		 "teamScore": 116 
+		} 
+	 ]
+	} 
+
+ ] 
+ }
